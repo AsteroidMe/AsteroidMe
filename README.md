@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hi there 👋 , I'm Aste!
+🌱 I am currently learning both front-end and back-end but it seems difficult. So I will focus more on the one that I prefer.
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Just%20for-FUN-red" />
+    <img src="https://img.shields.io/badge/Created%20by-Asteroid-white" />
+</p>
+    
 <!--
 **AsteroidMe/AsteroidMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
